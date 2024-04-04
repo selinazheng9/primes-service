@@ -1,5 +1,16 @@
+/Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/service/IAuthenticationService.java
 /Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/controller/HomeController.java
+/Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/service/TokenService.java
+/Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/service/AuthenticationService.java
+/Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/repository/AuthenticationDBRepository.java
+/Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/security/KeyGeneratorUtils.java
+/Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/controller/PrimesController.java
+/Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/repository/AuthenticationFileRepository.java
+/Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/controller/AuthenticationController.java
+/Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/repository/IAuthenticationRepository.java
+/Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/model/Customer.java
+/Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/security/Jwks.java
 /Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/service/PrimesService.java
 /Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/PrimesServiceApplication.java
 /Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/service/IPrimesService.java
-/Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/controller/PrimesController.java
+/Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/security/SecurityConfig.java
