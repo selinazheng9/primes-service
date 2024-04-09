@@ -1,6 +1,8 @@
 edu/iu/selzheng/primesservice/model/Customer.class
 edu/iu/selzheng/primesservice/controller/HomeController.class
+edu/iu/selzheng/primesservice/rabbitmq/MQSender.class
 edu/iu/selzheng/primesservice/PrimesServiceApplication.class
+edu/iu/selzheng/primesservice/rabbitmq/MQConfiguration.class
 edu/iu/selzheng/primesservice/service/AuthenticationService.class
 edu/iu/selzheng/primesservice/repository/AuthenticationDBRepository.class
 edu/iu/selzheng/primesservice/controller/PrimesController.class

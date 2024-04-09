@@ -1,4 +1,6 @@
 /Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/service/IAuthenticationService.java
+/Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/rabbitmq/MQSender.java
+/Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/rabbitmq/MQConfiguration.java
 /Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/controller/HomeController.java
 /Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/service/TokenService.java
 /Users/selinazheng/Desktop/primes-service/src/main/java/edu/iu/selzheng/primesservice/service/AuthenticationService.java
